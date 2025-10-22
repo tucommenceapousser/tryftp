@@ -20,7 +20,8 @@ Le fichier targets.txt doit contenir une entrée par ligne. Exemples de lignes a
 ```
 
 Résultats écrits dans:
+```bash
     success.txt  -> lignes réussies
     fail.txt     -> lignes échouées (raison incluse)
     results.log  -> log détaillé horodaté
-"""
+```
