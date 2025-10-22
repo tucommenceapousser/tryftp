@@ -4,5 +4,5 @@ just for perso use
 ---
 
 ```bash
-python3 ftp_tester.py
+python3 ftp_tester.py list.txt
 ```
